@@ -15,7 +15,7 @@ ReactDOM.createRoot(
 
   <React.StrictMode>
 
-    <BrowserRouter>
+    <BrowserRouter basename="/portfolio">
 
       <App />
 
